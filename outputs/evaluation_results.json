@@ -1,0 +1,44 @@
+[
+    {
+        "scenario_id": 1,
+        "type": "baseline",
+        "prompt": "electronic music",
+        "latency_seconds": 9.91,
+        "filename": "outputs/scenario_1_baseline.wav"
+    },
+    {
+        "scenario_id": 1,
+        "type": "improved",
+        "prompt": "Fast-paced synthwave electronic music with a driving bassline, retro 80s drums, and a catchy lead synth melody",
+        "latency_seconds": 8.5,
+        "filename": "outputs/scenario_1_improved.wav"
+    },
+    {
+        "scenario_id": 2,
+        "type": "baseline",
+        "prompt": "rock music",
+        "latency_seconds": 8.41,
+        "filename": "outputs/scenario_2_baseline.wav"
+    },
+    {
+        "scenario_id": 2,
+        "type": "improved",
+        "prompt": "Upbeat punk rock music with heavily distorted guitars, aggressive drum beats, and a rebellious high-energy vibe",
+        "latency_seconds": 8.32,
+        "filename": "outputs/scenario_2_improved.wav"
+    },
+    {
+        "scenario_id": 3,
+        "type": "baseline",
+        "prompt": "relaxing music",
+        "latency_seconds": 8.6,
+        "filename": "outputs/scenario_3_baseline.wav"
+    },
+    {
+        "scenario_id": 3,
+        "type": "improved",
+        "prompt": "Ambient spa music featuring a soft grand piano, gentle ocean waves in the background, and slow ethereal strings",
+        "latency_seconds": 8.35,
+        "filename": "outputs/scenario_3_improved.wav"
+    }
+]
